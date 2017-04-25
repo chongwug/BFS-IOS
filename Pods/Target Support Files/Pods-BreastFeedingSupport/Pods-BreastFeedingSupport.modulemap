@@ -1,0 +1,6 @@
+framework module Pods_BreastFeedingSupport {
+  umbrella header "Pods-BreastFeedingSupport-umbrella.h"
+
+  export *
+  module * { export * }
+}

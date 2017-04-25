@@ -1,0 +1,50 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CF35077FD7A44320981FE5EE63723881BC15523F" : 9223372036854775807,
+    "10B73D0B7CE5B1CD363428FDF4A01A2A9E2F0357" : 9223372036854775807,
+    "23AAFBD591BA505FBAABBB27621941E6A9803CE6" : 9223372036854775807,
+    "6B7A1C5ACC1903AE24738A17B979A095598A09C9" : 9223372036854775807,
+    "2045D86BC5D391C299DCC498309E722E037BFF4E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EDBEFF67-1D2F-451B-AF0B-E0D09313CD58",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CF35077FD7A44320981FE5EE63723881BC15523F" : "BreastFeedingSupport\/Swift-SMART\/Swift-FHIR\/",
+    "10B73D0B7CE5B1CD363428FDF4A01A2A9E2F0357" : "BreastFeedingSupport\/Swift-SMART\/OAuth2\/SwiftKeychain\/",
+    "23AAFBD591BA505FBAABBB27621941E6A9803CE6" : "BreastFeedingSupport\/Swift-SMART\/",
+    "6B7A1C5ACC1903AE24738A17B979A095598A09C9" : "BreastFeedingSupport\/Swift-SMART\/Swift-FHIR\/fhir-parser\/",
+    "2045D86BC5D391C299DCC498309E722E037BFF4E" : "BreastFeedingSupport\/Swift-SMART\/OAuth2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BreastFeedingSupport",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BreastFeedingSupport.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/p2\/SwiftKeychain",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10B73D0B7CE5B1CD363428FDF4A01A2A9E2F0357"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/p2\/OAuth2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2045D86BC5D391C299DCC498309E722E037BFF4E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smart-on-fhir\/Swift-SMART.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23AAFBD591BA505FBAABBB27621941E6A9803CE6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smart-on-fhir\/fhir-parser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B7A1C5ACC1903AE24738A17B979A095598A09C9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smart-on-fhir\/Swift-FHIR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CF35077FD7A44320981FE5EE63723881BC15523F"
+    }
+  ]
+}

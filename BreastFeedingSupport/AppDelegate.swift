@@ -44,3 +44,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+enum AppError: Error, CustomStringConvertible {
+    case noEndpointProvider
+    case noActiveEndpoint
+    case noPatientSelected
+    
+    var description: String {
+        switch self {
+        case .noEndpointProvider:
+            return "No endpoint provider is present, cannot continue"
+        case .noActiveEndpoint:
+            return "No endpoint (server) has been selected yet, please do that first"
+        case .noPatientSelected:
+            return "No patient has been selected, please do that first"
+        }
+    }
+}
