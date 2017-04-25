@@ -258,7 +258,7 @@ class FirstViewController: UITableViewController {
         else if(peeButton.isChecked){
             bfd.pDetail = "pee"
         }else{
-            bfd.pDetail = ""
+            bfd.pDetail = "n/a"
         }
         return bfd.pDetail
     }
